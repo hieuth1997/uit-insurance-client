@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /static/image/*
+Disallow: /login
+Disallow: /register
+Allow: /
+Sitemap: http://104.43.16.131:3030/sitemap.xml

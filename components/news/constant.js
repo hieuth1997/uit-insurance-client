@@ -1,0 +1,2 @@
+export const GET_NEWS_LIST = 'GET_NEWS_LIST';
+export const GET_NEWS_ITEM_DETAIL = 'GET_NEWS_ITEM_DETAIL';

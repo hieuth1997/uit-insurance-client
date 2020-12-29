@@ -1,0 +1,9 @@
+export const LOGIN = 'LOGIN';
+export const SET_CURRENT_USER = 'SET_CURRENT_USER';
+export const GET_PROFILE = 'GET_PROFILE';
+export const GET_ORDER = 'GET_ORDER';
+export const GET_ORDER_DETAIL = 'GET_ORDER_DETAIL';
+export const GET_CART = 'GET_CART';
+export const REMOVE_CART = 'REMOVE_CART';
+export const UPDATE_USER = 'UPDATE_USER';
+export const GET_ERRORS_USER = 'GET_ERRORS_USER';
